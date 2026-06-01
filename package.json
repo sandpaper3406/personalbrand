@@ -1,0 +1,11 @@
+{
+  "name": "jamesmarkley.com",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal brand website for James Markley.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
