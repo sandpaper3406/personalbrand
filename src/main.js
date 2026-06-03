@@ -53,7 +53,7 @@ const highlights = [
   "Builds and scales technology companies for enterprise value and buyer readiness",
   "Operator across managed IT, federal programs, software, VoIP, and compliance",
   "Experience with NIST, CMMC, SOC 2, HIPAA, PCI-DSS, ISO 27001, and FedRAMP environments",
-  "Rotary, civic, and nonprofit leadership across Rotary District 6950 and Tampa Bay"
+  "Rotary, civic, and nonprofit leadership across the Greater Tampa Bay region"
 ];
 
 const journey = [
